@@ -1,1 +1,2 @@
-https://lang-ship.com/blog/work/m5stickc-esp32-ota/
+- https://github.com/espressif/arduino-esp32/blob/master/libraries/HTTPUpdateServer/examples/WebUpdater/WebUpdater.ino
+- https://lang-ship.com/blog/work/m5stickc-esp32-ota/
